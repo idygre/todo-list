@@ -7,6 +7,7 @@ import time
 
 # string format time - format the time in a string
 now = time.strftime("%b %d, %Y %H:%M:%S")
+print("testing")
 print("It is ", now)
 
 while True:
