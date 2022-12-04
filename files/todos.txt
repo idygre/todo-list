@@ -1,0 +1,14 @@
+clean
+sleep
+skate
+cook
+done
+vacuum
+cook
+clean
+done
+garden
+paint
+done
+pineaplpe
+done
