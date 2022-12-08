@@ -1,5 +1,7 @@
 import functions
 import PySimpleGUI as sg
+import time
+import os
 
 label = sg.Text("Type in a To-Do")
 input_box = sg.InputText(tooltip="Enter todo", key="todo")
